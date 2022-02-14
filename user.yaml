@@ -1,0 +1,53 @@
+student:
+  name: Joe
+  greeting: "Joe \"The Joester\" Thompson"
+  age: 18
+  height: 1.88
+  married: False
+  children: null
+  story: >
+    Joe was born
+    on 1st of April,
+    and this is not a joke
+  bio: |
+    Born
+    Went to kindergarten
+    Went to primary school
+  friends: [Mary, Simon]
+  enemies:
+    - Harry
+    - Lukas
+  address:
+    mailing:
+      country: USA
+      city: NY
+  actual:
+    country: USA
+  city: New York
+
+
+  student:
+    name: Marry
+    greeting: "Marry \"The Cutties\" White"
+    age: 16
+    height: 1.43
+    married: False
+    children: null
+    story: >
+      Marry was born
+      on 14st of February,
+      and that's why everyone is fall in love with her
+    bio: |
+      Born
+      Went to high school
+      Waiting graduation
+    friends: [ Joe, Barry ]
+    enemies:
+      - Stiven
+    address:
+      mailing:
+        country: USA
+        city: New Jersey
+    actual:
+      country: United states
+    city: NJ

@@ -1,0 +1,30 @@
+<students>
+    <student id="1" name="Joe" gender="M">
+        <activities>
+            <internal>
+                <activity eyes="brown" hair="short"/>
+                <activity university="NY movie university" description="University of NY"/>
+            </internal>
+            <public>
+                <activity graduation="01.05.2022" description="Prepare the speach"/>
+            </public>
+            <social>
+                <activity description="nursing home visit"/>
+            </social>
+        </activities>
+    </student>
+    <student id="2" name="Marry" gender="F">
+        <activities>
+            <internal>
+                <activity eyes="blue" hair="long"/>
+                <activity university="New Jersey hight school" description="School of NJ"/>
+            </internal>
+            <public>
+                <activity graduation="06.06.2022" description="Prepare the uniform"/>
+            </public>
+            <social>
+                <activity description="tennis"/>
+            </social>
+        </activities>
+    </student>
+</students>
