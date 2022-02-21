@@ -1,0 +1,17 @@
+{
+  "firstName": "Joe",
+  "age": 18,
+  "married": false,
+  "taxId": null,
+  "friends": [
+    {"name":"Barry", "age": 17, "married": false, "taxId": null},
+    {"name":"Stiven", "age": 21, "married": true, "taxId": 1534},
+    {"name":"Piter", "age": 18, "married": false, "taxId": "00230"}
+  ],
+  "address": {
+    "country": "USA",
+    "city": "New York",
+    "zip": "00993",
+    "postal": true
+  }
+}
