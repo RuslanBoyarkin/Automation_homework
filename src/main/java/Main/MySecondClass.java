@@ -1,3 +1,4 @@
+/*
 public class MySecondClass {
     public String homeWork(int i){
         return "I did my Home Work!";
@@ -6,3 +7,4 @@ public class MySecondClass {
         return "~~~<тут то, что вернул метод homeWork>~~~";
     }
 }
+*/

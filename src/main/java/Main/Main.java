@@ -1,5 +1,23 @@
-public class Main {
+package Main;
+
+/*public class Main{
+    private static Planet pl;
+    public static void main(String[] args, Planet planet) {
+        Planet p = Planet.valueOf("MERCURY");
+
+        System.out.println(p.name);
+
+        for (Planet pl : Planet.values()) {
+            System.out.println(Planet.EARTH.ordinal());
+        }
+    }
+}*/
+
+
+/* Лекция №6 */
+    /*
     public static boolean getTrue(int i) {
+
         System.out.println("Returning true");
         return true;
     }
@@ -51,4 +69,4 @@ public class Main {
         System.out.println(bb2);
 
     }
-}
+} */

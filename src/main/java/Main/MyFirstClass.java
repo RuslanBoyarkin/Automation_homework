@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+/*
 public class MyFirstClass {
 
     public static void main(String[] args) {
@@ -10,4 +10,4 @@ public class MyFirstClass {
     }
 }
 
-
+*/
